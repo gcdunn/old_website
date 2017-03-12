@@ -3,21 +3,3 @@ url: "http://gcdunn.github.io"
 baseurl: ""
 title: [Glenna Dunn]
 description: [Astrophysics PhD Student at Vanderbilt University]
-
-########
-# more settings
-
-markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-permalink: /:title.html
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
