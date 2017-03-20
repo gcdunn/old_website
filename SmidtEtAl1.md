@@ -11,7 +11,7 @@ The novelty here is that they are bridging the gap between the scales of quasar 
 2. Numerical method  
 The halo is seeds with a black hole once it crosses the atomic cooling threshold.  They do not artificially cap the accretion limit, but cite that the x-ray and supernova feedback keep the accretion rate sub-Eddington.
   
-3. SMBH/Host galaxy coevolution 
+3. SMBH/Host galaxy coevolution  
 Here they give a nice narrative of how the BH and halo grow together, citing the effect of mergers on star formation and BH accretion.
 
 Figure 1.  Density slice showing cold accretion stream.  
